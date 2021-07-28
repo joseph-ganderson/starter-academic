@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/joe-ganderson-b296653b/
 organizations:
   - name: London School of Economics
-    url: https://www.lse.ac.uk
+    url: https://www.lse.ac.uk/european-institute
 education:
   courses:
     - course: PhD in Social and Political Science
