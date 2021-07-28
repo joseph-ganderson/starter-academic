@@ -6,7 +6,7 @@ bio: My research interests include banking & finance, European politics and Brex
 interests:
   - European Politics
   - Brexit
-  - Finance
+  - Banking and Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,7 +34,7 @@ education:
     - course: MA in International Political Economy
       institution: King's College London
       year: 2012
-    - course: BA in International Relations & Politics
+    - course: BA in International Relations and Politics
       institution: University of Sheffield
       year: 2011
 email: joeganderson@gmail.com
