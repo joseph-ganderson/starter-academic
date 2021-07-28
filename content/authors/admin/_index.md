@@ -4,9 +4,9 @@ role: Political Economist, London School of Economics
 avatar_filename: profile-photo.png
 bio: My research interests include banking & finance, European politics and Brexit
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - European Politics
+  - Brexit
+  - Finance
 social:
   - icon: envelope
     icon_pack: fas
