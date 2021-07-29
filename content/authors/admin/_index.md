@@ -1,6 +1,6 @@
 ---
 title: Joe Ganderson
-role: Political Economist, London School of Economics
+role: Political Economist
 avatar_filename: avatar.jpeg
 bio: My research interests include banking & finance, European politics and Brexit
 interests:
