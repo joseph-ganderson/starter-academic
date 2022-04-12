@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: SOLID
     tag: SOLID
-  - name: Finance
-    tag: Finance
+  - name: Thesis
+    tag: Thesis
   - name: Global Taxation
     tag: Global Taxation
 
