@@ -1,41 +1,41 @@
 ---
-title: Example Project
+slides: example
+url_pdf: ""
+title: SOLID
 summary: An example of using the in-built project page.
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: https://solid-erc.eu/
+url_slides: ""
+subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
+  Identity in the EU post-2008"
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
+  - Deep Learning
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/ERC_SOLID
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  filename: solid.png
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
+The last decade has been a *decennium horribile* for the EU. Since 2008, the European Union has faced a series of unprecedented shocks: the Great Recession, the sovereign debt crisis and its dramatic social consequences, security threats linked to terrorism and conflicts in the MENA region (Middle East and North Africa), the refugee crisis and, eventually, Brexit. Supranational decision making was severely tested. From today’s vantage point, we observe that policy performance has not lived up to its promises and potential, damaging public trust in the efficacy and transparency of the EU. And yet, despite “existential threats”, we observe resilience. The EU and the euro have not fallen apart. At the apex of the crisis, EU leaders managed to agree on strategies for recovery. It is true that extremely vocal Eurosceptic formations have scored increasing success in a number of countries.  But data show that in all member states – save the UK – there are still significant majorities supporting EU and integration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+SOLID aims at understanding how and why “doom” and “elation” can go together. The EU is still fragile and its durability remains an open question. New capacities were created during the long crisis. But it is not clear how robust they are and whether developing them further will encounter insurmountable obstacles, including resentment by citizens. We argue that the aforementioned sequence of sectoral/policy crises produced a “deep” political crisis which unsettled fundamental assumptions and practices regarding the exercise of authority and its legitimation. Over time, tensions and disagreements unleashed three foundational conflicts: conflicts over sovereignty (who decides), solidarity (who gets what when and why) and identity (who we are). The “crisis politics” that was deployed to deal with such tensions has constrained policy responses in their scope and effectiveness. Against all odds, however, the destructive spiral stopped short of driving the Union into self-destruction: a circumstance that still calls for an explanation. Only a thorough retrospective analysis of the political crisis can cast light on the nature of this unexpected resilience.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+We shall thus address the following research questions:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+1. what made foundational conflicts emerge and escalate during the crisis?
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+2. which political dynamics were activated by each shock and lead to crisis policy making and crisis politics?
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+3. what coalitional dynamics operated during the euro area crisis, the social crisis, the refugee crisis, the membership crisis (Brexit and intra-EU separatism)?
+
+4. how can we account for key episodes and decisions which underpinned resilience?
+
+A key aim of the project will be to envisage scenarios and perspectives allowing for a durable and politically SOLID European Union.
+
+SOLID is the result of the synergies which brought together prof. Maurizio Ferrera, Professor of Political Science at Università degli Studi di Milano, Hanspeter Kriesi, Professor of Political Science at the European University Institute and Prof. Waltraud Schelkle, Professor in Political Economy at the London School of Economics.
