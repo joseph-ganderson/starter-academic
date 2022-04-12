@@ -2,6 +2,7 @@
 title: Thesis
 subtitle: The Politics of Post-Crisis Banking Regulations
 date: 2022-04-12T13:31:40.995Z
+summary: The Politics of Post-Crisis Banking Regulations
 draft: false
 featured: false
 tags:
