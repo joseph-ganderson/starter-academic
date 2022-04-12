@@ -2,9 +2,9 @@
 slides: example
 url_pdf: ""
 title: SOLID
-summary: An example of using the in-built project page.
+summary: ERC-Funded Postdoctoral Research Project
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: https://solid-erc.eu/
 url_slides: ""
 subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
