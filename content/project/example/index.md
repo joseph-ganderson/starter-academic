@@ -14,7 +14,7 @@ tags:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Twitter
     url: https://twitter.com/ERC_SOLID
 image:
   caption: SOLID Logo
