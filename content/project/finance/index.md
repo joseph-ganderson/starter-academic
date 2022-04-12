@@ -4,6 +4,8 @@ subtitle: Doctoral and Ongoing Research
 date: 2022-04-12T13:31:40.995Z
 draft: false
 featured: false
+tags:
+  - Finance
 external_link: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
 links:
   - url: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
