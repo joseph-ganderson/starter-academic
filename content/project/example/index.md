@@ -1,33 +1,23 @@
 ---
 slides: Project Framework
+url_pdf: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
 title: SOLID
 summary: >-
   Postdoctoral Research 
-
-
-  Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (ERC Grant 810356)
-url_video: ""
-date: 2016-04-27T00:00:00.000Z
-external_link: https://solid-erc.eu/
-url_slides: ""
-subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
-  Identity in the EU Post-2008"
-tags:
-  - SOLID
-links:
-  - icon: twitter
+@@ -20,6 +19,10 @@ links:
     icon_pack: fab
     name: Twitter
     url: https://twitter.com/ERC_SOLID
 - url: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
     name: EUI Thesis of the Month
     icon_pack: ai 
-  
+
 image:
   caption: SOLID Logo
   focal_point: Smart
   filename: solid.png
 url_code: ""
+---
 ---
 The last decade has been a *decennium horribile* for the EU. Since 2008, the European Union has faced a series of unprecedented shocks: the Great Recession, the sovereign debt crisis and its dramatic social consequences, security threats linked to terrorism and conflicts in the MENA region (Middle East and North Africa), the refugee crisis and, eventually, Brexit. Supranational decision making was severely tested. From today’s vantage point, we observe that policy performance has not lived up to its promises and potential, damaging public trust in the efficacy and transparency of the EU. And yet, despite “existential threats”, we observe resilience. The EU and the euro have not fallen apart. At the apex of the crisis, EU leaders managed to agree on strategies for recovery. It is true that extremely vocal Eurosceptic formations have scored increasing success in a number of countries.  But data show that in all member states – save the UK – there are still significant majorities supporting EU and integration.
 
