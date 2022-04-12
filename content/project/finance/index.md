@@ -20,3 +20,4 @@ image:
   caption: European University Institute
   alt_text: European University Institute
 ---
+The Politics of Post-Crisis Banking Regulations
