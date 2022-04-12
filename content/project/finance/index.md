@@ -6,13 +6,13 @@ summary: The Politics of Post-Crisis Banking Regulations
 draft: false
 featured: false
 tags:
-  - Finance
-external_link: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
+  - Thesis
+external_link: '""'
 links:
   - url: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
     name: EUI Thesis of the Month
-    icon_pack: ai
-    icon: obp
+    icon_pack: fas
+    icon: book
 image:
   filename: european_university_institute-cijlhkjr2fwftstvzolmpfulucr20pdh_0.jpeg
   focal_point: Smart
