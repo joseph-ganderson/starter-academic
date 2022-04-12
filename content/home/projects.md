@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: SOLID
     tag: SOLID
-  - name: Other
-    tag: Demo
+  - name: Finance
+    tag: Finance
+  - name: Global Taxation
+    tag: Global Taxation
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
