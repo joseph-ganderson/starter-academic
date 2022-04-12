@@ -12,7 +12,7 @@ links:
   - url: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
     name: EUI Thesis of the Month
     icon_pack: fas
-    icon: pen-to-square
+    icon: pen
 image:
   filename: european_university_institute-cijlhkjr2fwftstvzolmpfulucr20pdh_0.jpeg
   focal_point: Smart
