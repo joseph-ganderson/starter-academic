@@ -25,9 +25,9 @@ experience:
   - title: Postdoctoral Researcher
     company: LSE
     company_url: ''
-    company_logo: 'org-gc'
+    company_logo: org-gc
     location: London, UK
-    date_start: '09-2019'
+    date_start: '01-09-2019'
     date_end: ''
     description: |2-
         * Research for SOLID Project (Primary)
@@ -36,10 +36,10 @@ experience:
   - title: Doctoral Researcher
     company: European University Institute
     company_url: ''
-    company_logo: 'org-x'
+    company_logo: org-x
     location: Florence, Italy
-    date_start: '09-2015'
-    date_end: '09-2020'
+    date_start: '01-09-2015'
+    date_end: '01-09-2020'
 
 design:
   columns: '2'
