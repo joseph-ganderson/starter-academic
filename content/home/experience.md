@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: LSE
     company_url: ''
-    company_logo: org-gc
+    company_logo: LSE_Logo
     location: London
     date_start: '2019-09-01'
     date_end: ''
