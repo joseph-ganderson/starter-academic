@@ -1,6 +1,6 @@
 ---
-title: Finance
-subtitle: Doctoral and Ongoing Research
+title: Thesis
+subtitle: The Politics of Post-Crisis Banking Regulations
 date: 2022-04-12T13:31:40.995Z
 draft: false
 featured: false
@@ -18,4 +18,3 @@ image:
   caption: European University Institute
   alt_text: European University Institute
 ---
-Placeholder text
