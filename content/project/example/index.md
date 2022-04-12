@@ -1,5 +1,5 @@
 ---
-slides: ""
+slides: "Project Framework"
 url_pdf: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
 title: SOLID
 summary: Postdoctoral Research (ERC Grant 810356)
