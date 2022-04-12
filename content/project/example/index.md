@@ -1,8 +1,12 @@
 ---
-slides: "Project Framework"
+slides: Project Framework
 url_pdf: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
 title: SOLID
-summary: Postdoctoral Research (ERC Grant 810356)
+summary: >-
+  Postdoctoral Research 
+
+
+  Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008 (ERC Grant 810356)
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://solid-erc.eu/
