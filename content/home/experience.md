@@ -39,7 +39,7 @@ experience:
     company: European University Institute
     company_url: ''
     company_logo: eui-logo
-    location: Fiesole, Italy
+    location: Florence, Italy
     date_start: '09-2015'
     date_end: '09-2020'
 
