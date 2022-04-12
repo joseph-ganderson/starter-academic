@@ -27,11 +27,11 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: SOLID
+  - name: Postdoctoral
     tag: SOLID
-  - name: Thesis
+  - name: Doctoral
     tag: Thesis
-  - name: Global Taxation
+  - name: Other
     tag: Global Taxation
 
 design:
