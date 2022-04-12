@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Researcher
+  - title: CEO
     company: LSE
     company_url: ''
     company_logo: org-gc
-    location: London, UK
-    date_start: '01-09-2019'
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        * Research for SOLID Project (Primary)
-        * Postgraduate Teaching (Secondary)
+        Responsibilities include:
         
-  - title: Doctoral Researcher
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
     company: European University Institute
     company_url: ''
     company_logo: org-x
-    location: Florence, Italy
-    date_start: '01-09-2015'
-    date_end: '01-09-2020'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
