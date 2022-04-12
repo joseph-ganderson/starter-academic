@@ -1,6 +1,5 @@
 ---
 slides: Project Framework
-url_pdf: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
 title: SOLID
 summary: >-
   Postdoctoral Research 
@@ -20,6 +19,10 @@ links:
     icon_pack: fab
     name: Twitter
     url: https://twitter.com/ERC_SOLID
+- url: https://www.eui.eu/DepartmentsAndCentres/PoliticalAndSocialSciences/ResearchAndTeaching/Theses/Thesis-of-the-month-DETAILS#GandersonSummary
+    name: EUI Thesis of the Month
+    icon_pack: ai 
+  
 image:
   caption: SOLID Logo
   focal_point: Smart
