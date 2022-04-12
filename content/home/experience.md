@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: LSE
     company_url: ''
-    company_logo: org-gc
+    company_logo: lse-logo
     location: London, UK
     date_start: '09-2019'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Doctoral Researcher
     company: European University Institute
     company_url: ''
-    company_logo: org-x
+    company_logo: eui-logo
     location: Fiesole, Italy
     date_start: '09-2015'
     date_end: '09-2020'
