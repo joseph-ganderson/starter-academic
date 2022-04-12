@@ -8,7 +8,7 @@ date: 2016-04-27T00:00:00.000Z
 external_link: https://solid-erc.eu/
 url_slides: ""
 subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
-  Identity in the EU post-2008"
+  Identity in the EU Post-2008"
 tags:
   - Deep Learning
 links:
@@ -17,7 +17,7 @@ links:
     name: Follow
     url: https://twitter.com/ERC_SOLID
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: SOLID Logo
   focal_point: Smart
   filename: solid.png
 url_code: ""
