@@ -30,8 +30,6 @@ experience:
     date_start: '09-2019'
     date_end: ''
     description: |2-
-        Responsibilities:
-        
         * Research for SOLID Project (Primary)
         * Postgraduate Teaching (Secondary)
         
