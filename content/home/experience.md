@@ -25,25 +25,20 @@ experience:
   - title: Postdoctoral Researcher
     company: LSE
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: London
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: ''
         
   - title: Doctoral Student
     company: European University Institute
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Fiesole, Italy
     date_start: '2015-09-01'
     date_end: '2020-09-01'
-    description: Included an Erasmus semester at the European Institute, LSE
+    description: Included an Erasmus semester at the European Institute, LSE (Michaelmas, 2018)
 
 design:
   columns: '2'
