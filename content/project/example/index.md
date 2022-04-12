@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: SOLID
-summary: ERC-Funded Postdoctoral Research Project
+summary: Postdoctoral Research (ERC Grant 810356)
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: https://solid-erc.eu/
