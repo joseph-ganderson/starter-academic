@@ -11,9 +11,13 @@ summary: >-
 external_link: "*"
 links:
   - icon_pack: fab
-    icon: Twitter
+    icon: twitter
     name: Project Twitter
     url: https://twitter.com/ERC_SOLID
+  - url: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
+    name: Project Framework
+    icon_pack: ai
+    icon: obp
 ---
 The last decade has been a *decennium horribile* for the EU. Since 2008, the European Union has faced a series of unprecedented shocks: the Great Recession, the sovereign debt crisis and its dramatic social consequences, security threats linked to terrorism and conflicts in the MENA region (Middle East and North Africa), the refugee crisis and, eventually, Brexit. Supranational decision making was severely tested. From today’s vantage point, we observe that policy performance has not lived up to its promises and potential, damaging public trust in the efficacy and transparency of the EU. And yet, despite “existential threats”, we observe resilience. The EU and the euro have not fallen apart. At the apex of the crisis, EU leaders managed to agree on strategies for recovery. It is true that extremely vocal Eurosceptic formations have scored increasing success in a number of countries.  But data show that in all member states – save the UK – there are still significant majorities supporting EU and integration.
 
