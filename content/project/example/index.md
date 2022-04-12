@@ -1,6 +1,6 @@
 ---
 slides: example
-url_pdf: ""
+url_pdf: https://solid-erc.eu/app/uploads/2020/12/theoretical-framework_april2021.pdf
 title: SOLID
 summary: Postdoctoral Research (ERC Grant 810356)
 url_video: ""
@@ -10,7 +10,7 @@ url_slides: ""
 subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
   Identity in the EU Post-2008"
 tags:
-  - Deep Learning
+  - SOLID
 links:
   - icon: twitter
     icon_pack: fab
