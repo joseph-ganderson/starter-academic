@@ -4,7 +4,7 @@ subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
   Identity in the EU post-2008"
 date: 2022-04-12T14:25:32.345Z
 summary: >-
-  Postdoctoral Research
+  **Postdoctoral Research**
 
 
   Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU post-2008
