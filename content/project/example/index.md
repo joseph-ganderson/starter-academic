@@ -12,6 +12,10 @@ links:
     name: Project Framework
     icon_pack: fas
     icon: paperclip
+  - url: https://twitter.com/ERC_SOLID
+    name: Project Twitter
+    icon_pack: fab
+    icon: twitter
 image:
   caption: SOLID Logo
   focal_point: Smart
