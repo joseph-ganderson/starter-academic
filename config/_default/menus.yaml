@@ -20,7 +20,7 @@ main:
     url: '#featured'
     weight: 50
   - name: CV
-    url: uploads/cv-ganderson-apr22.pdf
+    url: uploads/cv-ganderson-apr2022.pdf
     weight: 60
 
 
