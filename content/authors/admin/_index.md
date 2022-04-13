@@ -37,6 +37,7 @@ education:
     - course: BA in International Relations and Politics
       institution: University of Sheffield
       year: 2011
+
 email: joeganderson@gmail.com
 superuser: true
 highlight_name: false
