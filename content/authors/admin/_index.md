@@ -43,7 +43,7 @@ highlight_name: false
 ---
 Welcome to my personal site.
 
-I am a researcher and political economist based in the [European Institute](http://www.lse.ac.uk/european-institute) at the London School of Economics. My primary interests include comparative political economy and public policy in contemporary Europe, with a particular focus on banking and financial regulation.
+I am a postdoctoral researcher and political economist based in the [European Institute](http://www.lse.ac.uk/european-institute) at the London School of Economics. My primary interests include comparative political economy and public policy in contemporary Europe, with a particular focus on banking and financial regulation.
 
 At the LSE, I am a team member on the ERC-funded project *[Policy Crisis and Crisis Politics. Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID)](https://solid-erc.eu/).* SOLID brings together political scientists across three universities (LSE, EUI, University of Milan) and aims to make sense of the EU's crisis politics and its implications for the emerging European polity.
 
