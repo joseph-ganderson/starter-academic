@@ -4,9 +4,11 @@ role: Political Economist
 avatar_filename: avatar.jpeg
 bio: My research interests include banking & finance, European politics and Brexit
 interests:
-  - European Politics
+  - British and European Union Politics
   - Brexit
   - Banking and Finance
+  - Elite Interviewing
+  - Survey Design and Public Opinion
 social:
   - icon: envelope
     icon_pack: fas
