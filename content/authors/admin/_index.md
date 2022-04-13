@@ -38,7 +38,7 @@ education:
       institution: University of Sheffield
       year: 2011
 
-email: joeganderson@gmail.com
+email: ""
 superuser: true
 highlight_name: false
 ---
