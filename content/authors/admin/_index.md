@@ -49,4 +49,4 @@ At the LSE, I am a team member on the ERC-funded project *[Policy Crisis and Cr
 
 I hold a BA (First-Class Hons.) in International Relations and Politics from the University of Sheffield (2011). I was awarded a postgraduate innovation scholarship to continue my studies at King’s College London, where I received an MA (Pass with Distinction) in International Political Economy from King’s College London (2012). I obtained an MRes (2016) and DPhil (2020) from the EUI.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ganderson-cv-apr2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-ganderson-apr2022.pdf" "newtab" >}}CV{{< /staticref >}}.
