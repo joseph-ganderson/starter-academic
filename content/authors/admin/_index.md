@@ -50,6 +50,6 @@ I am a postdoctoral researcher and political economist based in the [European I
 
 At the LSE, I am a team member on the ERC-funded project *[Policy Crisis and Crisis Politics. Sovereignty, Solidarity and Identity in the EU Post-2008 (SOLID)](https://solid-erc.eu/).* SOLID brings together political scientists across three universities (LSE, EUI, University of Milan) and aims to make sense of the EU's crisis politics and its implications for the emerging European polity.
 
-I hold a BA (First-Class Hons.) in International Relations and Politics from the University of Sheffield (2011). I was awarded a postgraduate innovation scholarship to continue my studies at King’s College London, where I received an MA (Pass with Distinction) in International Political Economy from King’s College London (2012). I obtained an MRes (2016) and DPhil (2020) from the EUI.
+I hold a BA (First-Class Hons.) in International Relations and Politics from the University of Sheffield (2011). I was awarded a postgraduate innovation scholarship to continue my studies at King’s College London, where I received an MA (Pass with Distinction) in International Political Economy (2012). I obtained an MRes (2016) and DPhil (2020) from the EUI.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-ganderson-apr2022.pdf" "newtab" >}}CV{{< /staticref >}}.
