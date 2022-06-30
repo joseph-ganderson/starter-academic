@@ -1,9 +1,9 @@
 ---
-title: SOLID
+title: Postdoctoral
 subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and
   Identity in the EU Post-2008"
 date: 2016-04-27T00:00:00.000Z
-summary: Postdoctoral Research
+summary: SOLID - Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008
 tags:
   - SOLID
 external_link: http://solid-erc.eu
