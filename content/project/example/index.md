@@ -20,4 +20,3 @@ image:
   filename: solid.png
   alt_text: SOLID Logo
 ---
-Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008
