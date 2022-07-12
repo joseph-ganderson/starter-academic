@@ -1,6 +1,6 @@
 ---
 title: Postdoctoral
-subtitle: Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008
+subtitle: "Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008"
 summary: SOLID - Policy Crisis and Crisis Politics: Sovereignty, Solidarity and Identity in the EU Post-2008
 tags:
   - SOLID
